@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "base_track": "ショットガン・ナウル",
+  "base_artist": "Chinozo",
+  "createdAt": "2026-03-20T14:44:49.895851Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ショットガン・ナウル",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/01_ショットガン・ナウル_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ショットガン・ナウル",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/02_ショットガン・ナウル_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chinozo  「ショットガン・ナウル」 feat.FloweR",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/03_Chinozo_「ショットガン・ナウル」_feat.FloweR_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ショットガン・ナウル(self cover)",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/04_ショットガン・ナウル(self_cover)_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ショットガン?ナウル",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/05_ショットガン_ナウル_Chinozo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ショットガン・ナウル",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_ショットガン・ナウル_Chinozo.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ショットガン・ナウル",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/localdb_01_ショットガン・ナウル_Chinozo.lrc",
+      "repo_name": "tptmXIHhXG4"
+    }
+  ]
+}
